@@ -1,0 +1,23 @@
+# Eclipse
+.metadata/
+
+# Java
+bin/
+target/
+*.class
+
+# Node
+node_modules/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
